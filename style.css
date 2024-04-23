@@ -1,0 +1,358 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: rgb(64, 6, 30);
+  /* position: relative; */
+  width: 100%;
+  height: 160px;
+}
+.nav-color {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 95px;
+  background-color: rgb(101, 10, 48);
+  top: 65px;
+}
+.nav-logo1 {
+  position: absolute;
+  width: 266px;
+  height: 141.88px;
+  margin: -21px 0 0 204px;
+}
+.list-section {
+  position: absolute;
+  display: flex;
+  list-style: none;
+  margin: 33px 0 0 1060px;
+}
+.nav-li {
+  font-family: sans-serif;
+  cursor: pointer;
+  text-align: left;
+  padding-right: 15px;
+  font-size: 20px;
+  font-weight: 900;
+  color: white;
+}
+
+.main-div {
+  width: 100%;
+  height: 4950.88px;
+  /* position: relative; */
+}
+.home-img {
+  margin-left: 217px;
+  width: 737px;
+  height: 737px;
+}
+.text1 {
+  position: absolute;
+  top: 6px;
+  margin: 236px 0 0 1136px;
+  color: rgb(28, 30, 33);
+  top: 180px;
+}
+.first-text {
+  font-family: sans-serif;
+  font-weight: 900;
+  letter-spacing: -1px;
+  text-align: center;
+  font-size: 48px;
+}
+.first-button {
+  width: 254.3px;
+  height: 73px;
+  background-color: rgb(101, 10, 48);
+  color: white;
+  padding-right: 35px;
+  padding-left: 35px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: none;
+  margin: 23px 0 0 75px;
+  font-family: arial;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 25px;
+}
+.home-image2 {
+  width: 737px;
+  height: 979.94px;
+  margin: -4px 0 0 955px;
+}
+.text2 {
+  position: absolute;
+
+  color: #1c1e21;
+  padding-left: 198px;
+}
+.second-text {
+  font-family: sans-serif;
+  font-weight: 900;
+  letter-spacing: -3px;
+  text-align: center;
+  font-size: 48px;
+  margin: -621px 0 0 -82px;
+}
+.text-section {
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+  padding-top: 32px;
+  color: rgb(101, 10, 48);
+  margin-left: 25px;
+}
+.paragraph {
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+  padding-top: 32px;
+  color: rgb(101, 10, 48);
+  margin: -22px 0 0 0;
+}
+.image3 {
+  position: relative;
+  margin-left: 217px;
+}
+.home-image3 {
+  position: absolute;
+  width: 737px;
+  height: 737px;
+  padding-top: 33px;
+}
+.text3 {
+  position: relative;
+}
+.third-text {
+  position: absolute;
+  margin: 220px 0 0 1050px;
+  color: rgb(28, 30, 33);
+  font-family: sans-serif;
+  font-weight: 900;
+  letter-spacing: -3px;
+  text-align: center;
+  font-size: 48px;
+}
+.sub.-text2 {
+  position: relative;
+}
+.text-section2 {
+  position: absolute;
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+  padding-top: 32px;
+  color: rgb(101, 10, 48);
+  margin: 346px 0 0 1013px;
+}
+.paragraph2 {
+  position: absolute;
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+  padding-top: 32px;
+  color: rgb(101, 10, 48);
+  margin: 378px 0 0 1078px;
+}
+.second-button {
+  width: 280.3px;
+  height: 73px;
+  background-color: rgb(101, 10, 48);
+  color: white;
+  padding-right: 35px;
+  padding-left: 35px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: none;
+  margin: 480px 0 0 1167px;
+  font-family: "Questrial", sans-serif;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.home-image4 {
+  position: absolute;
+  width: 737px;
+  height: 979.94px;
+  margin: 222px 0 0 217px;
+}
+.text4 {
+  position: absolute;
+}
+.fourth-text {
+  margin: 614px 0 0 1007px;
+  color: rgb(28, 30, 33);
+  font-family: sans-serif;
+  font-weight: 900;
+  letter-spacing: -3px;
+  text-align: center;
+  font-size: 48px;
+}
+.text-section3 {
+  position: absolute;
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+  padding-top: 32px;
+  color: rgb(101, 10, 48);
+  margin: -3px 0 0 1036px;
+}
+.paragraph3 {
+  position: absolute;
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+  padding-top: 32px;
+  color: rgb(101, 10, 48);
+  margin: -24px 0 0 24px;
+}
+
+.home-image5 {
+  position: absolute;
+  width: 737px;
+  height: 737px;
+  margin: 1256px 0 0 970px;
+}
+.text5 {
+  position: absolute;
+}
+.fifth-text {
+  position: absolute;
+  margin: 1475px 0 0 228px;
+  color: rgb(28, 30, 33);
+  font-family: sans-serif;
+  font-weight: 900;
+  letter-spacing: -3px;
+  text-align: center;
+  font-size: 48px;
+}
+.text-section4 {
+  position: absolute;
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+  padding-top: 32px;
+  color: rgb(101, 10, 48);
+  margin: 1539px 0 0 267px;
+}
+.paragraph {
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+  padding-top: 32px;
+  color: rgb(101, 10, 48);
+  margin: -25px 0 0 40px;
+}
+
+.third-button {
+  position: absolute;
+  width: 192.3px;
+  height: 68px;
+  background-color: rgb(101, 10, 48);
+  color: white;
+  padding-right: 35px;
+  padding-left: 35px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: none;
+  margin: 76px 0 0 -325px;
+  font-family: "Questrial", sans-serif;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.footer-container {
+  height: 375px;
+  background-color: #40061e;
+  /* position: relative; */
+  margin: 2089px 0 0 0;
+  position: relative;
+}
+.footer-logo {
+  position: absolute;
+  width: 266px;
+  height: 141.88px;
+  margin: 47px 0 0 207px;
+}
+.footer-list1 {
+  line-height: 58px;
+  color: white;
+  font-family: sans-serif;
+}
+.list-1 {
+  position: absolute;
+  margin: 39px 0 0 526px;
+  list-style: none;
+  font-family: sans-serif;
+  font-weight: 800;
+}
+.list2 {
+  position: absolute;
+  margin: -175px 0 0 228px;
+  list-style: none;
+
+  font-family: sans-serif;
+}
+.list-3 {
+  position: absolute;
+  margin: -115px 0 0 295px;
+  list-style: none;
+  font-family: sans-serif;
+  line-height: 60px;
+}
+.list-4 {
+  position: absolute;
+  list-style: none;
+  font-family: sans-serif;
+  margin: -117px 0 0 335px;
+  list-style: none;
+  width: 263px;
+  color: white;
+  line-height: 55px;
+}
+.list4 {
+  list-style: none;
+}
+.foot-head1 {
+  width: auto;
+}
+
+.foot-list1 {
+  color: white;
+  font-family: sans-serif;
+}
+
+.insta-icon {
+  width: 37.5px;
+  height: 35.8px;
+  position: absolute;
+  margin: 64px 0 0 1633px;
+}
+
+.scd-ftr-para {
+  color: rgb(28, 37, 43);
+  font-size: 21px;
+  margin: 35px 0 0 170px;
+  font-family: sans-serif;
+}
+
+.scd-ftr-list {
+  margin: 31px 0 0 155px;
+}
+
+.scd-ftr-li {
+  display: inline-flex;
+  font-size: 23px;
+  padding-left: 15px;
+  color: #650a30;
+  font-family: sans-serif;
+  font-weight: 700;
+  text-decoration: underline;
+}
+.right-ftr-li {
+  color: rgb(28, 37, 43);
+  font-size: 21px;
+  margin: -81px 0 0 1670px;
+  font-family: sans-serif;
+  display: flex;
+  list-style: none;
+}
